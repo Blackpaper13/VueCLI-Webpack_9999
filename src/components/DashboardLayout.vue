@@ -4,7 +4,7 @@
      <v-list-item>
        <v-list-item-content>
          <v-list-item-title class="title">
-           Cris Yustianto P.T
+           Chris YPT
          </v-list-item-title>
          <v-list-item-subtitle>
            180709999
@@ -42,6 +42,7 @@ export default {
        { title: "Dashboard", to: "/" },
        { title: "GD", to: "/gd" },
        { title: "UGD", to: "/ugd" },
+       { title: "TUGAS", to: "/tugas"},
      ],
    };
  },
